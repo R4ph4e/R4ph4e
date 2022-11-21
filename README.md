@@ -1,7 +1,7 @@
 # Sobre mim
 - 👋 ola meu nome é  @R4ph4e 
 - 👀 eu estou interessado em eprender linguagem de programação
-- 🌱 atualmente estou aprendendo linguagem de programação
+- 🌱 atualmente estou aprendendo a linguagem de Javascript e  Scratch
 - 📫 como chegar até mim:instagram~raphaa_fernandesz
 
 <!---
